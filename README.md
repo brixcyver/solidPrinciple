@@ -74,3 +74,5 @@ public class OrderTest {
 
 ## UML Class Diagram:
 
+![Solid Principle Diagram](https://github.com/brixcyver/solidPrinciple/assets/142380216/f4be7882-3894-45d4-ad58-2bc7ac9a9d89)
+
