@@ -7,6 +7,9 @@
 * Interface Segregation Principle (ISP): A client should not be forced to implement an interface that it doesn't use.
 * Dependency Inversion Principle (DIP): High-level modules should not depend on low-level modules. Both should depend on abstractions.
 
+## Problem Statement
+Create a simple order processing system that calculates the total price of an order, places the order, generates an invoice, and sends an email notification to the customer. Implement the system using Object-Oriented Programming (OOP) principles, focusing on SOLID principles.
+
 ## Let's rewrite the supplied code to better comply to SOLID principles:
 
 ```
